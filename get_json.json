@@ -1,0 +1,19 @@
+{
+    "Reservations": [
+        {
+            "Groups": [],
+            "Instances": [{"AmiLaunchIndex": 0,
+                "ImageId": "ami-066e59911253ec588",
+                "InstanceId": "i-08646e7da73a32db6",
+                "InstanceType": "m5.2xlarge",
+                "KeyName": "ss-spo",
+                "LaunchTime": "datetime.datetime(2019, 12, 23, 19, 51, 56, tzinfo=tzutc())",
+                "Monitoring": {"State": "disabled"},
+                "Placement": {"AvailabilityZone": "sa-east-1a",
+                    "GroupName": "",
+                    "Tenancy": "default"}
+                }
+            ]
+        }
+    ]    
+}
